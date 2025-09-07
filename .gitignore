@@ -1,2 +1,6 @@
 node_modules
 *.blend
+R3F/public/scene.blend
+/files/
+files/
+public/files
